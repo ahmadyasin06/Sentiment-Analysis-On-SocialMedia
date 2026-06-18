@@ -1,2 +1,2 @@
-# Sentiment-Analysis-On-SocialMedia
-Built an AI-based sentiment analysis tool using Python, TextBlob, Matplotlib, and SQLite3 to classify and visualize social media sentiments (positive, negative, neutral).
+Sentiment Analysis on Social Media (AI Project)
+Developed an AI-based sentiment analysis system to classify social media text into positive, negative, or neutral categories. The project utilized Python with NLP libraries like TextBlob for sentiment scoring and analysis. Results were visualized using Matplotlib for better insight into sentiment distribution trends. A SQLite3 database was integrated to store and manage user inputs and analysis history efficiently. The system helps in understanding public opinion and emotional trends in social media content through automated text processing.
